@@ -1,0 +1,15 @@
+{
+  "name": "bootstrapgulpworkflow",
+  "version": "0.0.0",
+  "description": "A workflow to tweak bootstrap using gulpjs",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "David Mutua",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
+}
